@@ -1,4 +1,4 @@
-This is a DEMO of HOA DAO Web 3 application from the tutorial[Easy Web](https://medium.com/@easy-web/building-hoa-dao-application-with-web-3-stack-nextjs-charaui-and-thirdweb-9a9c3d586172)
+This is a DEMO of HOA DAO Web 3 application from the tutorial [Easy Web](https://medium.com/@easy-web/building-hoa-dao-application-with-web-3-stack-nextjs-charaui-and-thirdweb-9a9c3d586172)
 
 ## Getting Started
 
